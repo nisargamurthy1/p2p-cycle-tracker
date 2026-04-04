@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-Tracks every purchase order through the **full enterprise P2P lifecycle** — from PR submission to final payment — with automated slippage detection at every stage. Flags SLA breaches, commit date slips, supplier acknowledgement delays, delivery overruns, 3-way match mismatches, and payment holds before they become line-down events.
+Tracks every purchase order through the **full enterprise P2P lifecycle** from PR submission to final payment with automated slippage detection at every stage. Flags SLA breaches, commit date slips, supplier acknowledgement delays, delivery overruns, 3-way match mismatches, and payment holds before they become line-down events.
 
 Built from 3 years of owning full P2P cycles at **Daimler Trucks** across 3 truck model lines, maintaining **95% material availability**.
 
