@@ -1,0 +1,8 @@
+po_number,part,po_qty,invoice_qty,qty_match,po_price,invoice_price,price_match,match_status
+PO-2001,Aluminum Bracket 6061,50.0,50.0,✅,13.8,13.8,✅,✅ PASS
+PO-2002,Stepper Motor 24V,10.0,10.0,✅,92.0,92.0,✅,✅ PASS
+PO-2003,PCB Assembly Rev C,5.0,5.0,✅,155.0,155.0,✅,✅ PASS
+PO-2009,Pneumatic Fitting Set,30.0,30.0,✅,18.4,18.4,✅,✅ PASS
+PO-2011,Titanium Fastener Kit,500.0,500.0,✅,9.2,9.5,❌,❌ MISMATCH
+PO-2013,Power Supply 48V,4.0,4.0,✅,189.0,189.0,✅,✅ PASS
+PO-2015,Aluminum Extrusion 2020,80.0,80.0,✅,6.5,6.5,✅,✅ PASS

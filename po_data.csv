@@ -1,0 +1,16 @@
+po_number,part_description,vendor_name,unit_cost,quantity,total_value,pr_date,approval_date,po_date,supplier_ack_date,commit_date,expected_delivery,gr_date,gi_date,three_way_match_date,payment_date,invoice_qty,invoice_unit_price,buyer,category,notes
+PO-2001,Aluminum Bracket 6061,Delta Fabrication,13.80,50,690,2026-03-01,2026-03-02,2026-03-03,2026-03-04,2026-03-18,2026-03-20,2026-03-19,2026-03-19,2026-03-21,2026-04-20,50,13.80,Nisarga,Mechanical,Fully closed - on time
+PO-2002,Stepper Motor 24V,NovaDrive,92.00,10,920,2026-03-05,2026-03-06,2026-03-07,2026-03-08,2026-03-28,2026-03-30,2026-03-30,2026-03-31,2026-04-02,,10,92.00,Nisarga,Electrical,3-way match done - payment pending
+PO-2003,PCB Assembly Rev C,CircuitPro,155.00,5,775,2026-03-10,2026-03-11,2026-03-12,2026-03-13,2026-04-03,2026-04-05,2026-04-04,2026-04-04,,,5,155.00,Nisarga,Electronics,GI done - awaiting 3-way match
+PO-2004,Stainless Shaft 316,Delta Fabrication,8.75,100,875,2026-03-15,2026-03-16,2026-03-17,2026-03-18,2026-04-05,2026-04-07,2026-04-05,,,,,,Nisarga,Mechanical,GR done - GI not posted
+PO-2005,Rubber Seal Kit,SealTech,2.85,200,570,2026-03-18,2026-03-19,2026-03-20,2026-03-21,2026-04-01,2026-04-03,,,,,,,Nisarga,Hardware,In transit - delivery approaching
+PO-2006,Encoder Cable Assembly,CableTech,34.50,20,690,2026-03-08,2026-03-09,2026-03-10,2026-03-11,2026-03-25,2026-03-27,,,,,,,Nisarga,Electrical,Delivery overdue - escalate
+PO-2007,Bearing Housing,Apex Components,67.00,8,536,2026-03-20,,,,,2026-04-10,,,,,,,Nisarga,Mechanical,Awaiting approval - 3 days
+PO-2008,Control Board v2,ElectroParts Co,210.00,3,630,2026-03-22,2026-03-23,,,,2026-04-15,,,,,,,Nisarga,Electronics,Approved - PO not placed yet
+PO-2009,Pneumatic Fitting Set,FluidMaster,18.40,30,552,2026-02-20,2026-02-21,2026-02-22,2026-02-23,2026-03-08,2026-03-10,2026-03-09,2026-03-09,2026-03-11,2026-04-10,30,18.40,Nisarga,Hardware,Fully closed - paid
+PO-2010,Motor Driver IC,GlobalElec,45.00,15,675,2026-03-12,2026-03-13,2026-03-14,,,,,,,,,,Nisarga,Electronics,PO placed - supplier not acked (5 days)
+PO-2011,Titanium Fastener Kit,BoltPro,9.20,500,4600,2026-03-01,2026-03-02,2026-03-03,2026-03-04,2026-03-20,2026-03-22,2026-03-22,2026-03-22,2026-03-24,,500,9.50,Nisarga,Hardware,3-way match - PRICE MISMATCH
+PO-2012,Linear Rail 500mm,MotionTech,125.00,6,750,2026-03-25,,,,,2026-04-18,,,,,,,Nisarga,Mechanical,PR submitted - approval pending
+PO-2013,Power Supply 48V,PowerSys,189.00,4,756,2026-02-10,2026-02-11,2026-02-12,2026-02-13,2026-02-28,2026-03-01,2026-03-01,2026-03-01,2026-03-03,,4,189.00,Nisarga,Electrical,3-way matched - payment overdue 30+ days
+PO-2014,Proximity Sensor,SensorWorld,28.00,25,700,2026-03-28,2026-03-29,2026-03-30,2026-03-31,2026-04-10,2026-04-12,,,,,,,Nisarga,Electronics,In transit - on track
+PO-2015,Aluminum Extrusion 2020,ExtruCo,6.50,80,520,2026-02-15,2026-02-16,2026-02-17,2026-02-18,2026-03-03,2026-03-05,2026-03-04,2026-03-04,2026-03-06,2026-04-05,80,6.50,Nisarga,Mechanical,Fully closed - on time

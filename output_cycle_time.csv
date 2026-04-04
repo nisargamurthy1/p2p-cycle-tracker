@@ -1,0 +1,4 @@
+po_number,part_description,pr_to_approval,approval_to_po,po_to_ack,ack_to_gr,gr_to_gi,gi_to_match,match_to_payment,total_cycle
+PO-2001,Aluminum Bracket 6061,1,1,1,15,0,2,30,50
+PO-2009,Pneumatic Fitting Set,1,1,1,14,0,2,30,49
+PO-2015,Aluminum Extrusion 2020,1,1,1,14,0,2,30,49

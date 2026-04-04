@@ -1,0 +1,10 @@
+po_number,part,vendor,stage,alert_type,severity,days,message,action
+PO-2005,Rubber Seal Kit,SealTech,Delivery Overdue,COMMIT_DATE_SLIP,🔴 CRITICAL,3,Supplier commit date passed 3 day(s) ago — material not received,Escalate to vendor. Assess build impact. Identify alternate source or buffer stock
+PO-2005,Rubber Seal Kit,SealTech,Delivery Overdue,DELIVERY_SLIP,🔴 CRITICAL,1,Expected delivery passed 1 day(s) ago — GR not received,Expedite with supplier. Check freight/port status. Escalate if critical path
+PO-2006,Encoder Cable Assembly,CableTech,Delivery Overdue,COMMIT_DATE_SLIP,🔴 CRITICAL,10,Supplier commit date passed 10 day(s) ago — material not received,Escalate to vendor. Assess build impact. Identify alternate source or buffer stock
+PO-2006,Encoder Cable Assembly,CableTech,Delivery Overdue,DELIVERY_SLIP,🔴 CRITICAL,8,Expected delivery passed 8 day(s) ago — GR not received,Expedite with supplier. Check freight/port status. Escalate if critical path
+PO-2007,Bearing Housing,Apex Components,PR Submitted,PR_APPROVAL_DELAY,🟡 WARNING,15,PR pending approval for 15 days (SLA: 2 days),Follow up with approver — check budget hold or missing info
+PO-2008,Control Board v2,ElectroParts Co,PR Approved,PO_ISSUANCE_DELAY,🟡 WARNING,12,Approved PR not converted to PO in 12 days (SLA: 2 days),Place PO immediately — check for missing vendor/pricing setup
+PO-2010,Motor Driver IC,GlobalElec,PO Placed,ACK_OVERDUE,🔴 CRITICAL,21,Supplier has NOT acknowledged PO after 21 days (SLA: 3 days),Call supplier directly. Confirm PO receipt. Get written ack + confirmed delivery date
+PO-2012,Linear Rail 500mm,MotionTech,PR Submitted,PR_APPROVAL_DELAY,🟡 WARNING,10,PR pending approval for 10 days (SLA: 2 days),Follow up with approver — check budget hold or missing info
+PO-2013,Power Supply 48V,PowerSys,3-Way Match,PAYMENT_OVERDUE,🔴 CRITICAL,32,3-way match cleared 32 days ago — payment not released (Net-30),Escalate to AP team. Risk of supplier relationship damage and delivery holds

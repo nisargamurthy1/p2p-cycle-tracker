@@ -1,0 +1,13 @@
+po_number,part_description,vendor_name,stage,days_open,aging_bucket
+PO-2002,Stepper Motor 24V,NovaDrive,3-Way Match,30,15-30 days
+PO-2003,PCB Assembly Rev C,CircuitPro,GI Done,25,15-30 days
+PO-2004,Stainless Shaft 316,Delta Fabrication,GR Done,20,15-30 days
+PO-2005,Rubber Seal Kit,SealTech,Delivery Overdue,17,15-30 days
+PO-2006,Encoder Cable Assembly,CableTech,Delivery Overdue,27,15-30 days
+PO-2007,Bearing Housing,Apex Components,PR Submitted,15,15-30 days
+PO-2008,Control Board v2,ElectroParts Co,PR Approved,13,8-14 days
+PO-2010,Motor Driver IC,GlobalElec,PO Placed,23,15-30 days
+PO-2011,Titanium Fastener Kit,BoltPro,3-Way Match,34,30+ days 🔴
+PO-2012,Linear Rail 500mm,MotionTech,PR Submitted,10,8-14 days
+PO-2013,Power Supply 48V,PowerSys,3-Way Match,53,30+ days 🔴
+PO-2014,Proximity Sensor,SensorWorld,In Transit,7,0-7 days
