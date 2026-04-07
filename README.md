@@ -101,7 +101,6 @@ pr_date, approval_date, po_date, supplier_ack_date, commit_date,
 expected_delivery, gr_date, gi_date, three_way_match_date, payment_date,
 invoice_qty, invoice_unit_price, buyer, category
 ```
-Leave date fields blank if that stage hasn't happened yet.
 
 ### 4. Run
 ```bash
